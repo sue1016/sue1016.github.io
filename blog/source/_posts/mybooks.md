@@ -16,6 +16,6 @@ tags:
 
 > 我的自2018年起陆陆续续写的一些东西    
    
-[my personal writing](https://sue1016/github.io/i-have-to-say)  
+[my personal writing](https://sue1016.github.io/i-have-to-say)  
 
 
