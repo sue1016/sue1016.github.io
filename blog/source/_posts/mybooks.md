@@ -10,12 +10,12 @@ tags:
 
 >  一些在北邮读本科时做的笔记   
 
-[notes in bupt](sue1016.github.io/notes-in-BUPT-SSE)   
+[notes in bupt](https://sue1016.github.io/notes-in-BUPT-SSE)   
 
 #### My personal Writing  
 
 > 我的自2018年起陆陆续续写的一些东西    
    
-[my personal writing](sue1016/github.io/i-have-to-say)  
+[my personal writing](https://sue1016/github.io/i-have-to-say)  
 
 
